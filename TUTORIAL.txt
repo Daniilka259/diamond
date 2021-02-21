@@ -1,0 +1,67 @@
+WELCOME TO DIAMOND LANGUAGE
+
+Output text to console:
+
+	write("Hello world");
+
+At the end of each command, put ;
+	
+Create a function:
+
+	To create a function, you must enter void and the name of the function.
+	Example: void main(){}
+	Curly braces are needed for the interpreter to read
+	where is the beginning of the function and where is the end.
+
+Function call:
+
+	To call the function, we need to put $ and after in the name of the function
+	Example: $main()
+
+Create a variable:
+
+	There are three ways to create variables, but it is better to use only
+	two ways and use the third to change the variable
+	Example:
+
+	one way:  var a;
+			  a = var(1);
+    In one way, we created a variable called "a" and changed its value to 1
+    two way:  a := 1;
+    		  a = 2;
+    in the second way, we created a variable "a" with a value of 1 and changed it to 2
+    RULE: You cannot change variables using the ":=" sign
+    Also for digital variables there are change signs such as "+=" and "-="
+
+Conditions:
+
+	There are if,else and elif command to create conditions
+	Example:
+	i := 1
+	if(i == 3){
+		write('Variable i = 3');
+	}
+	elif(i == 2){
+		write('Variable i = 2');
+	}
+	else {
+		write('All conditions are not correct')
+	}
+
+Cycles:
+
+	There are 2 ways to create loop: for and while
+	If you are familiar with other programming languages, you know how to work with them.
+	Example:
+	The first script will output Hello 3 times
+
+	for(i=1;i<4;i++){
+		write('Hello');
+	}
+
+	the second will output Hello while run = true
+	
+	run = true;
+	while(run){
+		write('Hello');
+	}

@@ -1,0 +1,15 @@
+// Diamond Language Example File
+
+var test;
+test = var("Hello world");
+write(test);
+var a;
+var b;
+var c;
+a = var(5);
+b = var(6);
+c = var(a + b);
+write(c);
+for(i=0;i<2;i++){
+	write('Hello!');
+}

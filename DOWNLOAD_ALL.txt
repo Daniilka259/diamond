@@ -1,0 +1,19 @@
+[RU] Для полной установки и коректной работы:
+1.зайдите в раздел "Этот компьютер" 
+2.кликните по любому белому месту и нажмите "свойства".
+3.У вас откроется "панель управления"
+4.откройте "дополнительные параметры" системы.
+5.Нажмите на кнопку "Перменные среды"
+6.Нажмите на переменную Path и нажмите изменить
+7.Открылось окно и там нажмите изменить
+8.В последнее пустое место нажмите и запишите путь\Diamond\
+
+[ENG] For complete installation and correct operation:
+1. go to "This computer"
+2.click on any white space and click "properties".
+3.You will open the "control panel"
+4. open the "advanced options" system.
+5.Click on the "Environment Variables" button
+6.Click on the Path variable and click edit
+7.A window was opened and there click change
+8.In the last blank space, click and write down the path \ Diamond \
